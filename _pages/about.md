@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Annika Thierfelder"
+title: "Annika's new website"
 author_profile: true
 redirect_from: 
   - /about/
